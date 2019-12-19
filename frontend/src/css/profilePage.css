@@ -1,0 +1,80 @@
+/* Universal Selector */
+
+/* ID selectors */
+#profileBodyTag {
+  display: flex;
+  flex-direction: row;
+}
+
+#profileNavagationTag {
+  border: solid 2px white;
+  width: 20%;
+  color: white;
+  height: 770px;
+  overflow-y: auto;
+}
+
+#profileMainTag {
+  border: solid 2px white;
+  width: 80%;
+  color: white;
+  height: 770px;
+  background-color: white;
+  overflow-y: auto;
+}
+
+#userProfileDiv {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  height: 10%;
+  width: 100%;
+  background-color: #f0b400;
+}
+
+#userProfilePicture {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: white;
+  align-self: center;
+  margin-left: 10px;
+}
+
+#userMessageDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 10%;
+  width: 100%;
+  background-color: #20205a;
+  border: solid white 0.1px;
+  border-collapse: collapse;
+}
+
+#userMessageImage {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: white;
+  align-self: center;
+  margin-left: 10px;
+}
+
+/* #dateDiv{
+    /* background-color: #20205A; */
+/* } */
+*/ #dateDiv {
+  height: 700px;
+  width: 900px;
+}
+
+/* #logoutButton{
+    
+} */
+
+/* Class selectors */
+
+/* Tag selectors */
+
+/* Semantic tags */

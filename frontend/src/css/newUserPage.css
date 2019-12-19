@@ -1,0 +1,14 @@
+#newUserForm span{
+    display: flex;
+    flex-direction: row;
+}
+#newUserForm textarea{
+    width: 80%;
+}
+.formDesc{
+    margin: 0;
+}
+.requiredIndicator{
+    margin: 5px;
+    color: red;
+}

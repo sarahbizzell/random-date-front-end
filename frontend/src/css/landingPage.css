@@ -1,0 +1,95 @@
+
+/* Universal Selector */
+
+/* Semantic tags */
+
+
+/* ID selectors */
+#createAccountLinkPTag{
+    font-size: 20px;
+}
+
+/* Class selectors */
+
+
+/* Tag selectors */
+#landingPageWrapper h1{
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 72px;
+    overflow: hidden;
+}
+
+#landingPageWrapper form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    
+    /* background-color:  #d1d1e0; */
+  
+   
+    padding: 20px;
+    opacity: 90%;
+    z-index: 3;
+    position: absolute;
+    width: 30vw;
+    height: 100vh;
+    right: 0px;
+    top: 0px;
+}
+
+#landingPageWrapper input{
+    width: 340px;
+    height: 60px;
+}
+
+#landingPageWrapper input:hover{
+    border: solid #F0B400 1px;
+}
+
+.buttonCSS1 {
+    width: 300px;
+    height: 70px;
+    font-size: 30px;
+    color: white;
+    background-color: #F0B400;
+    border-radius: 10px;
+}
+
+#landingPageWrapper span{
+    color: #F0B400;
+}
+
+/* Semantic tags */
+
+#landingPageWrapper body{
+    /* background-color: #000042; */
+    font-family: 'Roboto Condensed', sans-serif;
+    overflow: hidden;
+    
+}
+
+#landingPageWrapper main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+#landingPageWrapper ul{
+    color: white;
+    font-size: 25px;
+}
+
+.carousel-item{
+    width: 100vw;
+    height: 100vh;
+    /* z-index: 0; */
+    overflow: hidden;
+    background-size: cover;
+   
+  
+}
